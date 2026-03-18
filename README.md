@@ -2,7 +2,9 @@
 
 **Software Engineer** specializing in the **Node.js ecosystem** and **Rust**. I'm passionate about building high-performance, type-safe backend systems and exploring the boundaries of systems programming.
 
-[🌐 Website](https://maksym.ch) • [📸 Instagram](https://instagram.com/maksntch) • [📧 Email](mailto:ptytsia@maksym.ch)
+[🌐 Website](https://maksym.ch)
+---
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maksntch) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ptytsia@maksym.ch) 
 
 ---
 
