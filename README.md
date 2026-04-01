@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-two-theta-90.vercel.app/api?username=Res-NeoTech&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true" width="56%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Res-NeoTech&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42.625%" />
+  <img src="https://github-readme-stats-two-theta-90.vercel.app/api/top-langs/?username=Res-NeoTech&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42.625%" />
 </p>
 
 <p align="center">
