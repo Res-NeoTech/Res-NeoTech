@@ -10,7 +10,7 @@
 
 ### 🦀 Core Interests
 - **Performance & Safety:** Deeply interested in **Rust** for systems-level toolings and memory-safe applications.
-- **Modern Backend:** Architecting scalable APIs using **Node.js/TypeScript** and **C#/Rust**.
+- **Modern Backend:** Architecting scalable APIs using **Node.js/TypeScript** and **Rust**.
 - **Developer Experience:** Crafting clean, maintainable codebases with strict typing and automated workflows.
 
 ---
