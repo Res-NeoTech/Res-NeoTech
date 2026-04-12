@@ -1,17 +1,37 @@
 # Res-NeoTech | Full-Stack & Systems Engineer
 
-**Software Engineer** specializing in the **Node.js ecosystem** and **Rust**. I'm passionate about building high-performance, type-safe backend systems and exploring the boundaries of systems programming.
+> Building fast, reliable systems — from high-level APIs to low-level internals.
 
-[Sagittarius A*](https://maksym.ch)
+I'm a **Software Engineer** focused on the **Node.js ecosystem** and **Rust**, with a strong interest in **systems programming**, **performance**, and **clean architecture**.
+
+I enjoy working close to the metal just as much as designing scalable backend services — always aiming for **efficiency, safety, and simplicity**.
+
+
+🔗 **Portfolio:** [maksym.ch](https://maksym.ch)
+
 ---
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maksntch) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ptytsia@maksym.ch) 
+
+### 🧠 What I Care About
+
+* 🦀 **Performance & Safety**
+  Writing memory-safe, efficient systems without giving up control.
+
+* ⚙️ **Modern Backend Architecture**
+  Designing scalable services, clean APIs, and systems that don’t collapse under load.
+
+* 🧩 **Systems Thinking**
+  Understanding what actually happens under the hood — not just calling libraries blindly.
+
+* 🛠 **Developer Experience**
+  Strict typing, automation, and tooling that makes dev work feel *smooth*, not painful.
 
 ---
 
-### 🦀 Core Interests
-- **Performance & Safety:** Deeply interested in **Rust** for systems-level toolings and memory-safe applications.
-- **Modern Backend:** Architecting scalable APIs using **Node.js/TypeScript** and **Rust**.
-- **Developer Experience:** Crafting clean, maintainable codebases with strict typing and automated workflows.
+### 🌌 Philosophy
+
+> “Sagittarius A*” — curiosity pulled toward the deepest, most complex systems.
+
+I’m drawn to the boundary where **abstractions start to leak** — where performance matters, and you actually have to understand what you're building.
 
 ---
 
